@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contest-Lens</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <!-- ── Header ──────────────────────────────────────────────────────── -->
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <div class="header-title">
+          <h1>Contest-Lens</h1>
+          <p class="header-subtitle">Codeforces technique analysis across rating bands</p>
+        </div>
+        <nav class="header-nav" id="band-nav">
+          <!-- Populated by JS -->
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- ── Overview Stats ──────────────────────────────────────────── -->
+    <section class="section" id="overview">
+      <div class="stats-row" id="stats-row">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- ── Technique Frequency per Band ────────────────────────────── -->
+    <section class="section" id="band-section">
+      <div class="section-header">
+        <h2>Technique Frequency by Rating</h2>
+        <p class="section-desc">How often each technique appears in problems at each rating level</p>
+      </div>
+      <div class="band-tabs" id="band-tabs">
+        <!-- Populated by JS -->
+      </div>
+      <div class="chart-card">
+        <div class="chart-card-header" id="band-chart-header">
+          <!-- Populated by JS -->
+        </div>
+        <div class="chart-wrapper">
+          <canvas id="band-bar-chart"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── Progression Chart ───────────────────────────────────────── -->
+    <section class="section" id="progression-section">
+      <div class="section-header">
+        <h2>Technique Progression</h2>
+        <p class="section-desc">How key technique frequencies change from Newbie to Expert</p>
+      </div>
+      <div class="chart-card">
+        <div class="chart-wrapper chart-wrapper--line">
+          <canvas id="progression-chart"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── Roadmap Timeline ────────────────────────────────────────── -->
+    <section class="section" id="roadmap-section">
+      <div class="section-header">
+        <h2>Learning Roadmap</h2>
+        <p class="section-desc">A data-driven path from Newbie to Expert</p>
+      </div>
+      <div class="roadmap" id="roadmap">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- ── Insights ────────────────────────────────────────────────── -->
+    <section class="section" id="insights-section">
+      <div class="section-header">
+        <h2>Key Insights</h2>
+        <p class="section-desc">Important observations from the data</p>
+      </div>
+      <div class="insights-grid" id="insights-grid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ── Footer ──────────────────────────────────────────────────────── -->
+  <footer class="footer">
+    <div class="container">
+      <p>Contest-Lens &middot; Built with Codeforces API data</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script src="/app.js"></script>
+</body>
+</html>
+

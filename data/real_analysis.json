@@ -1,0 +1,664 @@
+{
+  "800-1000": {
+    "label": "Newbie \u2192 Pupil",
+    "total_problems": 1372,
+    "techniques": {
+      "Implementation": {
+        "frequency": 0.4716,
+        "problem_count": 647
+      },
+      "Math": {
+        "frequency": 0.4074,
+        "problem_count": 559
+      },
+      "Greedy": {
+        "frequency": 0.363,
+        "problem_count": 498
+      },
+      "Constructive Algorithms": {
+        "frequency": 0.1786,
+        "problem_count": 245
+      },
+      "Brute Force": {
+        "frequency": 0.1778,
+        "problem_count": 244
+      },
+      "Strings": {
+        "frequency": 0.1159,
+        "problem_count": 159
+      },
+      "Sorting": {
+        "frequency": 0.113,
+        "problem_count": 155
+      },
+      "Number Theory": {
+        "frequency": 0.0525,
+        "problem_count": 72
+      },
+      "Dynamic Programming": {
+        "frequency": 0.0284,
+        "problem_count": 39
+      },
+      "Game Theory": {
+        "frequency": 0.0248,
+        "problem_count": 34
+      },
+      "Geometry": {
+        "frequency": 0.0233,
+        "problem_count": 32
+      },
+      "Bit Manipulation": {
+        "frequency": 0.0168,
+        "problem_count": 23
+      },
+      "Two Pointers": {
+        "frequency": 0.0153,
+        "problem_count": 21
+      },
+      "Data Structures": {
+        "frequency": 0.0146,
+        "problem_count": 20
+      },
+      "Combinatorics": {
+        "frequency": 0.0146,
+        "problem_count": 20
+      },
+      "Binary Search": {
+        "frequency": 0.0102,
+        "problem_count": 14
+      },
+      "Graphs": {
+        "frequency": 0.0058,
+        "problem_count": 8
+      },
+      "DFS / BFS": {
+        "frequency": 0.0051,
+        "problem_count": 7
+      },
+      "Flows & Matching": {
+        "frequency": 0.0029,
+        "problem_count": 4
+      },
+      "Trees": {
+        "frequency": 0.0022,
+        "problem_count": 3
+      },
+      "Probability": {
+        "frequency": 0.0022,
+        "problem_count": 3
+      },
+      "Ternary Search": {
+        "frequency": 0.0015,
+        "problem_count": 2
+      },
+      "Hashing": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Chinese Remainder Theorem": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "2-SAT": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Strings (Advanced)": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Matrices": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "dsu": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Interactive": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Shortest Paths": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Scheduling": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      },
+      "Expression Parsing": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      }
+    }
+  },
+  "1000-1200": {
+    "label": "Pupil",
+    "total_problems": 817,
+    "techniques": {
+      "Implementation": {
+        "frequency": 0.4394,
+        "problem_count": 359
+      },
+      "Greedy": {
+        "frequency": 0.3856,
+        "problem_count": 315
+      },
+      "Math": {
+        "frequency": 0.3513,
+        "problem_count": 287
+      },
+      "Brute Force": {
+        "frequency": 0.213,
+        "problem_count": 174
+      },
+      "Constructive Algorithms": {
+        "frequency": 0.1971,
+        "problem_count": 161
+      },
+      "Sorting": {
+        "frequency": 0.1457,
+        "problem_count": 119
+      },
+      "Strings": {
+        "frequency": 0.0942,
+        "problem_count": 77
+      },
+      "Number Theory": {
+        "frequency": 0.0747,
+        "problem_count": 61
+      },
+      "Dynamic Programming": {
+        "frequency": 0.06,
+        "problem_count": 49
+      },
+      "Data Structures": {
+        "frequency": 0.0539,
+        "problem_count": 44
+      },
+      "Binary Search": {
+        "frequency": 0.0526,
+        "problem_count": 43
+      },
+      "Two Pointers": {
+        "frequency": 0.0379,
+        "problem_count": 31
+      },
+      "Bit Manipulation": {
+        "frequency": 0.033,
+        "problem_count": 27
+      },
+      "Geometry": {
+        "frequency": 0.0257,
+        "problem_count": 21
+      },
+      "Game Theory": {
+        "frequency": 0.0196,
+        "problem_count": 16
+      },
+      "Combinatorics": {
+        "frequency": 0.0171,
+        "problem_count": 14
+      },
+      "Graphs": {
+        "frequency": 0.0147,
+        "problem_count": 12
+      },
+      "DFS / BFS": {
+        "frequency": 0.0122,
+        "problem_count": 10
+      },
+      "dsu": {
+        "frequency": 0.0049,
+        "problem_count": 4
+      },
+      "Shortest Paths": {
+        "frequency": 0.0049,
+        "problem_count": 4
+      },
+      "Probability": {
+        "frequency": 0.0024,
+        "problem_count": 2
+      },
+      "Trees": {
+        "frequency": 0.0024,
+        "problem_count": 2
+      },
+      "Flows & Matching": {
+        "frequency": 0.0024,
+        "problem_count": 2
+      },
+      "Ternary Search": {
+        "frequency": 0.0012,
+        "problem_count": 1
+      },
+      "Chinese Remainder Theorem": {
+        "frequency": 0.0012,
+        "problem_count": 1
+      },
+      "Expression Parsing": {
+        "frequency": 0.0012,
+        "problem_count": 1
+      },
+      "Hashing": {
+        "frequency": 0.0012,
+        "problem_count": 1
+      }
+    }
+  },
+  "1200-1400": {
+    "label": "Pupil \u2192 Specialist",
+    "total_problems": 899,
+    "techniques": {
+      "Implementation": {
+        "frequency": 0.4283,
+        "problem_count": 385
+      },
+      "Greedy": {
+        "frequency": 0.4093,
+        "problem_count": 368
+      },
+      "Math": {
+        "frequency": 0.3415,
+        "problem_count": 307
+      },
+      "Constructive Algorithms": {
+        "frequency": 0.2102,
+        "problem_count": 189
+      },
+      "Brute Force": {
+        "frequency": 0.2002,
+        "problem_count": 180
+      },
+      "Sorting": {
+        "frequency": 0.1424,
+        "problem_count": 128
+      },
+      "Dynamic Programming": {
+        "frequency": 0.1023,
+        "problem_count": 92
+      },
+      "Binary Search": {
+        "frequency": 0.0957,
+        "problem_count": 86
+      },
+      "Number Theory": {
+        "frequency": 0.0845,
+        "problem_count": 76
+      },
+      "Strings": {
+        "frequency": 0.079,
+        "problem_count": 71
+      },
+      "Data Structures": {
+        "frequency": 0.0712,
+        "problem_count": 64
+      },
+      "Two Pointers": {
+        "frequency": 0.0645,
+        "problem_count": 58
+      },
+      "Bit Manipulation": {
+        "frequency": 0.0467,
+        "problem_count": 42
+      },
+      "Graphs": {
+        "frequency": 0.04,
+        "problem_count": 36
+      },
+      "DFS / BFS": {
+        "frequency": 0.0367,
+        "problem_count": 33
+      },
+      "Combinatorics": {
+        "frequency": 0.0323,
+        "problem_count": 29
+      },
+      "Game Theory": {
+        "frequency": 0.0245,
+        "problem_count": 22
+      },
+      "Geometry": {
+        "frequency": 0.02,
+        "problem_count": 18
+      },
+      "dsu": {
+        "frequency": 0.0178,
+        "problem_count": 16
+      },
+      "Trees": {
+        "frequency": 0.0145,
+        "problem_count": 13
+      },
+      "Hashing": {
+        "frequency": 0.0089,
+        "problem_count": 8
+      },
+      "Shortest Paths": {
+        "frequency": 0.0056,
+        "problem_count": 5
+      },
+      "Interactive": {
+        "frequency": 0.0044,
+        "problem_count": 4
+      },
+      "Flows & Matching": {
+        "frequency": 0.0033,
+        "problem_count": 3
+      },
+      "Matrices": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Divide & Conquer": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Scheduling": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Probability": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Expression Parsing": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Ternary Search": {
+        "frequency": 0.0011,
+        "problem_count": 1
+      },
+      "Meet in the Middle": {
+        "frequency": 0.0011,
+        "problem_count": 1
+      }
+    }
+  },
+  "1400-1600": {
+    "label": "Specialist \u2192 Expert",
+    "total_problems": 907,
+    "techniques": {
+      "Greedy": {
+        "frequency": 0.4123,
+        "problem_count": 374
+      },
+      "Implementation": {
+        "frequency": 0.3793,
+        "problem_count": 344
+      },
+      "Math": {
+        "frequency": 0.3208,
+        "problem_count": 291
+      },
+      "Brute Force": {
+        "frequency": 0.2172,
+        "problem_count": 197
+      },
+      "Constructive Algorithms": {
+        "frequency": 0.1974,
+        "problem_count": 179
+      },
+      "Dynamic Programming": {
+        "frequency": 0.1566,
+        "problem_count": 142
+      },
+      "Sorting": {
+        "frequency": 0.1533,
+        "problem_count": 139
+      },
+      "Binary Search": {
+        "frequency": 0.1356,
+        "problem_count": 123
+      },
+      "Data Structures": {
+        "frequency": 0.1312,
+        "problem_count": 119
+      },
+      "Number Theory": {
+        "frequency": 0.0849,
+        "problem_count": 77
+      },
+      "Strings": {
+        "frequency": 0.0772,
+        "problem_count": 70
+      },
+      "DFS / BFS": {
+        "frequency": 0.0761,
+        "problem_count": 69
+      },
+      "Two Pointers": {
+        "frequency": 0.075,
+        "problem_count": 68
+      },
+      "Graphs": {
+        "frequency": 0.0662,
+        "problem_count": 60
+      },
+      "Combinatorics": {
+        "frequency": 0.0518,
+        "problem_count": 47
+      },
+      "Bit Manipulation": {
+        "frequency": 0.0419,
+        "problem_count": 38
+      },
+      "dsu": {
+        "frequency": 0.0375,
+        "problem_count": 34
+      },
+      "Trees": {
+        "frequency": 0.0331,
+        "problem_count": 30
+      },
+      "Game Theory": {
+        "frequency": 0.0298,
+        "problem_count": 27
+      },
+      "Geometry": {
+        "frequency": 0.0254,
+        "problem_count": 23
+      },
+      "Interactive": {
+        "frequency": 0.0121,
+        "problem_count": 11
+      },
+      "Shortest Paths": {
+        "frequency": 0.0121,
+        "problem_count": 11
+      },
+      "Hashing": {
+        "frequency": 0.011,
+        "problem_count": 10
+      },
+      "Divide & Conquer": {
+        "frequency": 0.0077,
+        "problem_count": 7
+      },
+      "Ternary Search": {
+        "frequency": 0.0077,
+        "problem_count": 7
+      },
+      "Expression Parsing": {
+        "frequency": 0.0044,
+        "problem_count": 4
+      },
+      "Matrices": {
+        "frequency": 0.0033,
+        "problem_count": 3
+      },
+      "Probability": {
+        "frequency": 0.0033,
+        "problem_count": 3
+      },
+      "2-SAT": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Scheduling": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Meet in the Middle": {
+        "frequency": 0.0022,
+        "problem_count": 2
+      },
+      "Flows & Matching": {
+        "frequency": 0.0011,
+        "problem_count": 1
+      },
+      "Strings (Advanced)": {
+        "frequency": 0.0011,
+        "problem_count": 1
+      }
+    }
+  },
+  "1600-1900": {
+    "label": "Expert",
+    "total_problems": 1495,
+    "techniques": {
+      "Greedy": {
+        "frequency": 0.3679,
+        "problem_count": 550
+      },
+      "Math": {
+        "frequency": 0.3017,
+        "problem_count": 451
+      },
+      "Implementation": {
+        "frequency": 0.287,
+        "problem_count": 429
+      },
+      "Dynamic Programming": {
+        "frequency": 0.2214,
+        "problem_count": 331
+      },
+      "Constructive Algorithms": {
+        "frequency": 0.2054,
+        "problem_count": 307
+      },
+      "Brute Force": {
+        "frequency": 0.1967,
+        "problem_count": 294
+      },
+      "Data Structures": {
+        "frequency": 0.1605,
+        "problem_count": 240
+      },
+      "Binary Search": {
+        "frequency": 0.1525,
+        "problem_count": 228
+      },
+      "Sorting": {
+        "frequency": 0.1271,
+        "problem_count": 190
+      },
+      "Graphs": {
+        "frequency": 0.109,
+        "problem_count": 163
+      },
+      "DFS / BFS": {
+        "frequency": 0.1017,
+        "problem_count": 152
+      },
+      "Number Theory": {
+        "frequency": 0.0876,
+        "problem_count": 131
+      },
+      "Two Pointers": {
+        "frequency": 0.0863,
+        "problem_count": 129
+      },
+      "Strings": {
+        "frequency": 0.0722,
+        "problem_count": 108
+      },
+      "Trees": {
+        "frequency": 0.0635,
+        "problem_count": 95
+      },
+      "Combinatorics": {
+        "frequency": 0.0609,
+        "problem_count": 91
+      },
+      "Bit Manipulation": {
+        "frequency": 0.0555,
+        "problem_count": 83
+      },
+      "Geometry": {
+        "frequency": 0.0334,
+        "problem_count": 50
+      },
+      "Shortest Paths": {
+        "frequency": 0.0328,
+        "problem_count": 49
+      },
+      "dsu": {
+        "frequency": 0.0314,
+        "problem_count": 47
+      },
+      "Interactive": {
+        "frequency": 0.0214,
+        "problem_count": 32
+      },
+      "Hashing": {
+        "frequency": 0.0214,
+        "problem_count": 32
+      },
+      "Game Theory": {
+        "frequency": 0.0194,
+        "problem_count": 29
+      },
+      "Divide & Conquer": {
+        "frequency": 0.0181,
+        "problem_count": 27
+      },
+      "Probability": {
+        "frequency": 0.0154,
+        "problem_count": 23
+      },
+      "Flows & Matching": {
+        "frequency": 0.0094,
+        "problem_count": 14
+      },
+      "Expression Parsing": {
+        "frequency": 0.0087,
+        "problem_count": 13
+      },
+      "Ternary Search": {
+        "frequency": 0.0074,
+        "problem_count": 11
+      },
+      "Matrices": {
+        "frequency": 0.004,
+        "problem_count": 6
+      },
+      "Strings (Advanced)": {
+        "frequency": 0.0033,
+        "problem_count": 5
+      },
+      "Meet in the Middle": {
+        "frequency": 0.0033,
+        "problem_count": 5
+      },
+      "Scheduling": {
+        "frequency": 0.002,
+        "problem_count": 3
+      },
+      "2-SAT": {
+        "frequency": 0.002,
+        "problem_count": 3
+      },
+      "Chinese Remainder Theorem": {
+        "frequency": 0.0013,
+        "problem_count": 2
+      },
+      "FFT": {
+        "frequency": 0.0007,
+        "problem_count": 1
+      }
+    }
+  }
+}
